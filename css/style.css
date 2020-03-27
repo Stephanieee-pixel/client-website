@@ -1,3 +1,19 @@
 .main{
-  height: auto;
+  height: 600px;
+  width:1200px;
+  align-content: center;
+}
+.jumbotron{
+  background-color: #9AADBF;
+}
+.card-text{
+  font-family: 'Fira Sans', Sans-Serif;
+  font-size: 20px;
+}
+.card-title{
+  font-family: 'Cormorant Garamond', Serif;
+  font-size: 35px;
+}
+.card-body{
+  background-color: #547AA5;
 }
