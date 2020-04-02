@@ -9,13 +9,15 @@
 .card-text{
   font-family: 'Fira Sans', Sans-Serif;
   font-size: 20px;
+  color:#D7FFF1;
 }
 .card-title{
   font-family: 'Cormorant Garamond', Serif;
   font-size: 35px;
+  color:#D7FFF1;
 }
 .card-body{
-  background-color: #547AA5;
+  background-color:#3C493F;
 }
 .card-img-top{
   height:286px;
@@ -23,4 +25,15 @@
 }
 h1{
   font-family: 'Faster One', cursive;
+}
+.carousel-inner{
+    height: 800px;
+  }
+
+  .carousel-item{
+      height: 100% !important;
+      width:  100% !important;
+  }
+.jumbotron{
+  background-color:#98DFAF ;
 }
