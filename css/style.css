@@ -37,3 +37,10 @@ h1{
 .jumbotron{
   background-color:#98DFAF ;
 }
+.media-body{
+  font-family: 'Amiri', serif;
+  font-size: 20px;
+}
+.mt-8{
+  font-size: 40px;
+}
