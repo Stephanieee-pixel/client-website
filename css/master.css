@@ -1,0 +1,28 @@
+/* This is where my CSS styles are going to go! */
+.jumbotron{
+  background-color: #F5D491;
+}
+.card-body{
+  background-color: #EFE6DD;
+}
+.card-text{
+  font-family: 'Nanum Myeongjo', serif;
+}
+.display-3{
+  font-family: 'Sofia', cursive;
+}
+.title{
+  text-align: center;
+  font-family: 'Piedra', cursive;
+}
+.gallery{
+  width:520px;
+  height:500px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.fit{
+  object-fit: cover;
+}
